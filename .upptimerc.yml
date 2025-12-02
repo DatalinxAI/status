@@ -28,11 +28,19 @@ workflowSchedule:
   summary: "0 0 * * *"
 
 i18n:
-  activeIncidents: Active incidents
-  allSystemsOperational: All systems operational
-  incidentReport: Incident report for
-  liveStatus: Live status
-  overallUptime: Overall uptime
-  pastIncidents: Past incidents
+  activeIncidents: Active Incidents
+  allSystemsOperational: All systems are operational
+  incidentReport: "Incident #$NUMBER report →"
+  liveStatus: Live Status
+  overallUptime: "Overall uptime: $UPTIME"
+  overallUptimeTitle: Overall uptime
+  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTimeTitle: Average response
+  pastIncidents: Past Incidents
   responseTime: Response time
   uptime: Uptime
+  up: Up
+  down: Down
+  degraded: Degraded
+  ms: ms
+  loading: Loading
