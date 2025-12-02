@@ -5,10 +5,8 @@ user-agent: DatalinxAI
 sites:
   - name: DataLinx App
     url: https://app.datalinx.ai
-  - name: DataLinx API
-    url: https://app.datalinx.ai/api/health
   - name: DataLinx Website
-    url: https://www.datalinx.ai
+    url: https://datalinx.ai
 
 status-website:
   baseUrl: /status
