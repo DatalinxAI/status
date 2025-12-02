@@ -4,15 +4,15 @@ user-agent: DatalinxAI
 
 sites:
   - name: DataLinx App
-    url: https://app.datalinxai.com
+    url: https://app.datalinx.ai
   - name: DataLinx API
-    url: https://app.datalinxai.com/api/health
+    url: https://app.datalinx.ai/api/health
   - name: DataLinx Website
-    url: https://www.datalinxai.com
+    url: https://www.datalinx.ai
 
 status-website:
-  cname: status.datalinxai.com
-  logoUrl: https://www.datalinxai.com/logo.png
+  cname: status.datalinx.ai
+  logoUrl: https://www.datalinx.ai/logo.png
   name: DataLinx Status
   introTitle: "**DataLinx** service status"
   introMessage: This page shows real-time status and uptime for DataLinx services.
@@ -20,7 +20,7 @@ status-website:
     - title: Status
       href: /
     - title: DataLinx
-      href: https://www.datalinxai.com
+      href: https://www.datalinx.ai
 
 workflowSchedule:
   uptime: "*/5 * * * *"
