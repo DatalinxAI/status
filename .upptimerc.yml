@@ -1,0 +1,40 @@
+owner: DatalinxAI
+repo: status
+user-agent: DatalinxAI
+
+sites:
+  - name: DataLinx App
+    url: https://app.datalinxai.com
+  - name: DataLinx API
+    url: https://app.datalinxai.com/api/health
+  - name: DataLinx Website
+    url: https://www.datalinxai.com
+
+status-website:
+  cname: status.datalinxai.com
+  logoUrl: https://www.datalinxai.com/logo.png
+  name: DataLinx Status
+  introTitle: "**DataLinx** service status"
+  introMessage: This page shows real-time status and uptime for DataLinx services.
+  navbar:
+    - title: Status
+      href: /
+    - title: DataLinx
+      href: https://www.datalinxai.com
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  graphs: "0 0 * * *"
+  staticSite: "0 0 * * *"
+  summary: "0 0 * * *"
+
+i18n:
+  activeIncidents: Active incidents
+  allSystemsOperational: All systems operational
+  incidentReport: Incident report for
+  liveStatus: Live status
+  overallUptime: Overall uptime
+  pastIncidents: Past incidents
+  responseTime: Response time
+  uptime: Uptime
