@@ -4,6 +4,9 @@ on:
     - cron: "*/5 * * * *"
   workflow_dispatch:
   repository_dispatch:
+permissions:
+  contents: write
+  issues: write
 jobs:
   uptime:
     runs-on: ubuntu-latest
@@ -13,4 +16,4 @@ jobs:
         with:
           command: "update"
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
