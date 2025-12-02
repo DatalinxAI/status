@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DataLinx App",
+    "url": "https://app.datalinx.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/app.datalinx.ai.ico",
+    "slug": "data-linx-app",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 419,
+    "timeDay": 419,
+    "timeWeek": 419,
+    "timeMonth": 419,
+    "timeYear": 419,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "DataLinx Website",
+    "url": "https://datalinx.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/datalinx.ai.ico",
+    "slug": "data-linx-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 769,
+    "timeDay": 769,
+    "timeWeek": 769,
+    "timeMonth": 769,
+    "timeYear": 769,
+    "dailyMinutesDown": {}
+  }
+]
