@@ -16,9 +16,9 @@ status-website:
   introMessage: This page shows real-time status and uptime for DataLinx services.
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: DataLinx
-      href: https://www.datalinx.ai
+      href: https://datalinx.ai
 
 workflowSchedule:
   uptime: "*/5 * * * *"
