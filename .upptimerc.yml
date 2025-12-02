@@ -11,7 +11,7 @@ sites:
     url: https://www.datalinx.ai
 
 status-website:
-  cname: status.datalinx.ai
+  baseUrl: /status
   logoUrl: https://www.datalinx.ai/logo.png
   name: DataLinx Status
   introTitle: "**DataLinx** service status"
