@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 308,
+    "timeDay": 306,
     "timeWeek": 316,
     "timeMonth": 316,
     "timeYear": 316,
@@ -22,17 +22,19 @@
     "url": "https://datalinx.ai",
     "icon": "https://icons.duckduckgo.com/ip3/datalinx.ai.ico",
     "slug": "data-linx-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 200,
+    "timeDay": 199,
     "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-06": 1
+    }
   }
 ]
